@@ -7,4 +7,4 @@ jobs:
       -  name: Checkout Repo
          uses: actions/checkout@v3
       -  name: Run Feed Generator
-         uses: sss-soham/podcast-generator@main
+         uses: sss-soham/podcast-test@main
